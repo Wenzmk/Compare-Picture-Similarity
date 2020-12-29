@@ -12,6 +12,7 @@ analysis was performed using Python 3 at Kaggle Notebook. Please make sure that 
 7. tensorflow
 8. skimage
 9. expects
+10. sklearn
 
 ### About Data
 The data are the secondary data took from XYZ Company for their ecommerce product.
@@ -23,7 +24,7 @@ The data are the secondary data took from XYZ Company for their ecommerce produc
 - Column 4 - title_2: title of the second product
 - Column 5 - image_2: image file name of the image for the second product
 - Column 6 - pair label: 1 or 0 (1 means “match” and 0 means “different product”)
-2. Training_img.zip: containing images for each of the products.
+2. Training_img.zip: containing images for each of the products. File can be download at [image_file](https://drive.google.com/file/d/1oCkIlvtkuPbGlrA_oCYq24JEUd7Mifws/view?usp=sharing)
 
 ### Description
 structural similarity index (SSIM) was first introduced in the 2004 IEEE paper, Image Quality Assessment: From Error Visibility to Structural Similarity. The abstract provides a good intuition into the idea behind the system proposed,
